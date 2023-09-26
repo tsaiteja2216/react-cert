@@ -1,0 +1,46 @@
+#orders {
+    display: flex;
+  }
+  #orders_head {
+    margin-left: 40px;
+    text-align: left;
+  }
+  #Filters {
+    padding: 10px;
+    margin-left: 70px;
+  }
+  #Filter_count{
+    color: rgb(247, 7, 7);
+  }
+  .filter_input {
+    margin: 10px;
+  }
+  th {
+    color: rgb(58, 52, 11);
+    background-color: rgb(243, 202, 202);
+  }
+  .data {
+    background-color: white;
+    margin: 1px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .order_row {
+    /* border:2px solid black; */
+    background-color: white;
+    row-gap: 2px;
+    /* -moz-box-shadow: 0px 2px 2px black; */
+    box-shadow: 5px 6px 3px solid black;
+  }
+  #ordertable {
+
+    margin-left: 30px;
+    margin-top: 0px;
+    border-collapse: separate;
+    border-spacing: 0 15px;
+    width: 100%;
+    border-left: none;
+   
+  }
