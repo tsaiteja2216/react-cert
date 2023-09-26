@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-cert/static/css/main.e7f99721.css",
+    "main.js": "/react-cert/static/js/main.381c0030.js",
+    "static/js/787.7bb03340.chunk.js": "/react-cert/static/js/787.7bb03340.chunk.js",
+    "index.html": "/react-cert/index.html",
+    "main.e7f99721.css.map": "/react-cert/static/css/main.e7f99721.css.map",
+    "main.381c0030.js.map": "/react-cert/static/js/main.381c0030.js.map",
+    "787.7bb03340.chunk.js.map": "/react-cert/static/js/787.7bb03340.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f99721.css",
+    "static/js/main.381c0030.js"
+  ]
+}
