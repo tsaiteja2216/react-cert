@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-certification-edyoda/static/css/main.e7f99721.css",
-    "main.js": "/react-certification-edyoda/static/js/main.efebfb93.js",
-    "static/js/787.7bb03340.chunk.js": "/react-certification-edyoda/static/js/787.7bb03340.chunk.js",
-    "index.html": "/react-certification-edyoda/index.html",
-    "main.e7f99721.css.map": "/react-certification-edyoda/static/css/main.e7f99721.css.map",
-    "main.efebfb93.js.map": "/react-certification-edyoda/static/js/main.efebfb93.js.map",
-    "787.7bb03340.chunk.js.map": "/react-certification-edyoda/static/js/787.7bb03340.chunk.js.map"
+    "main.css": "/react-cert/static/css/main.e7f99721.css",
+    "main.js": "/react-cert/static/js/main.7782fb65.js",
+    "static/js/787.7bb03340.chunk.js": "/react-cert/static/js/787.7bb03340.chunk.js",
+    "index.html": "/react-cert/index.html",
+    "main.e7f99721.css.map": "/react-cert/static/css/main.e7f99721.css.map",
+    "main.7782fb65.js.map": "/react-cert/static/js/main.7782fb65.js.map",
+    "787.7bb03340.chunk.js.map": "/react-cert/static/js/787.7bb03340.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7f99721.css",
-    "static/js/main.efebfb93.js"
+    "static/js/main.7782fb65.js"
   ]
 }
