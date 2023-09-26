@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./home.module.css";
-import { Login } from "./login";
 import { Link } from "react-router-dom";
 export const Navbar = () => {
   return (
@@ -11,6 +10,7 @@ export const Navbar = () => {
           alt="Logo"
           height="30px"
           width="30px"
+          onClick="/home"
         ></img>
         <p>Kafene</p>
       </div>
